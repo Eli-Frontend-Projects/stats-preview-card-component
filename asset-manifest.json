@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Eli-Frontend-Projects/stats-preview-card-component/static/css/main.6b8551c1.css",
+    "main.js": "/Eli-Frontend-Projects/stats-preview-card-component/static/js/main.e138c538.js",
+    "static/js/453.6d31fd2a.chunk.js": "/Eli-Frontend-Projects/stats-preview-card-component/static/js/453.6d31fd2a.chunk.js",
+    "static/media/image-header-mobile.jpg": "/Eli-Frontend-Projects/stats-preview-card-component/static/media/image-header-mobile.399f71e732a77d1f56c6.jpg",
+    "static/media/image-header-desktop.jpg": "/Eli-Frontend-Projects/stats-preview-card-component/static/media/image-header-desktop.72d6e2a00c9131c7b6a6.jpg",
+    "static/media/logo.svg": "/Eli-Frontend-Projects/stats-preview-card-component/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Eli-Frontend-Projects/stats-preview-card-component/index.html",
+    "main.6b8551c1.css.map": "/Eli-Frontend-Projects/stats-preview-card-component/static/css/main.6b8551c1.css.map",
+    "main.e138c538.js.map": "/Eli-Frontend-Projects/stats-preview-card-component/static/js/main.e138c538.js.map",
+    "453.6d31fd2a.chunk.js.map": "/Eli-Frontend-Projects/stats-preview-card-component/static/js/453.6d31fd2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b8551c1.css",
+    "static/js/main.e138c538.js"
+  ]
+}
